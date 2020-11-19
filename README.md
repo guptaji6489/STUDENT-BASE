@@ -1,4 +1,4 @@
-install--these dependencies
+## install--these dependencies
 1-bootstrap
 2-react-router-dom
 3-node-sass
@@ -9,7 +9,8 @@ install--these dependencies
 8- redux-firestore
 9- redux-devtools-extension
 
-then-- npm start
+## then--
+npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
