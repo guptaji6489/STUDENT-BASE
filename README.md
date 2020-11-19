@@ -9,7 +9,7 @@
 8- redux-firestore
 9- redux-devtools-extension
 
-## then--
+## Then
 npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
