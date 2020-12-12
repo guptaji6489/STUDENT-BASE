@@ -1,4 +1,4 @@
-## install--these dependencies
+## install -these dependencies to run this project
 1-bootstrap
 2-react-router-dom
 3-node-sass
